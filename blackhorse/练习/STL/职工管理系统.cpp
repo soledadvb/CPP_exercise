@@ -15,14 +15,14 @@
  *清空所有文档
 
 */
-// #include <iostream>
-// #include "workManager.h"
-// using namespace std;
+#include <iostream>
+#include "workManager.h"
+using namespace std;
 
-// #include "worker.h"
-// #include "employee.h"
-// #include "manager.h"
-// #include "boss.h"
+#include "worker.h"
+#include "employee.h"
+#include "manager.h"
+#include "boss.h"
 
 int main()
 {
