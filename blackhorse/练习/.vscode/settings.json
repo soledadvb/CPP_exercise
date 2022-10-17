@@ -4,6 +4,7 @@
         "iosfwd": "cpp",
         "vector": "cpp",
         "string": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "algorithm": "cpp"
     }
 }
