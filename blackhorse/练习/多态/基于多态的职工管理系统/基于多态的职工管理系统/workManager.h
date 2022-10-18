@@ -5,6 +5,8 @@ using namespace std;
 #include "employee.h"
 #include "manager.h"
 #include "boss.h"
+#include <fstream>
+#define FILENAME "empFile.txt"
 class WorkerManager
 {
 public:
@@ -22,6 +24,9 @@ public:
 
 	//t添加职工
 	void Add_Emp();
+	
+	//保存文件
+	void save();
 
 
 	//退出系统
